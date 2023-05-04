@@ -1,0 +1,14 @@
+body{
+
+background-color: greenyellow;
+
+}
+
+p{
+    font-size: 15px;   
+}
+
+p:hover{
+    color:blue;
+}
+
